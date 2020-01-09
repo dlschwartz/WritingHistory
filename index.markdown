@@ -5,9 +5,6 @@
 layout: home
 ---
 
-
-
-## Resources for Students Writing Ancient History
 This page contains a set of resources for students engaged in writing ancient history 
 in my courses at Texas A&M University. 
 
