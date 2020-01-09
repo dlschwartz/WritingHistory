@@ -5,12 +5,12 @@ hidden: false
 permalink: /Writing/
 ---
 
-## General Overview
+### General Overview
 Patrick Rael has produced an excellent resource on historical writing for students, 
 [Reading, Writing, and Researching for History: A Guide for College Students](http://www.bowdoin.edu/writing-guides/){:target="_blank"}.
 I highly recommend that you spend some time reading this site.
 
-## My Expectations for an Undergraduate Term Paper: Draft
+### My Expectations for an Undergraduate Term Paper: Draft
 A draft is by definition a work in progress. You should always begin writing long before 
 you have everything figured out. We learn by writing so writing must be a iterative 
 process that begins with ideas which then get refined through the process of writing. 
@@ -24,7 +24,7 @@ The clarity is the critical part.
 * Bibliography
 
 
-## My Expectations for an Undergraduate Term Paper: Final
+### My Expectations for an Undergraduate Term Paper: Final
 
 #### Thesis Statement
 Your paper should contain a clear, focused, and arguable thesis statement that contains

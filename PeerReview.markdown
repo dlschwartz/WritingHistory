@@ -5,7 +5,7 @@ hidden: false
 permalink: /PeerReview/
 ---
 
-## Introduction
+### Introduction
 Peer review can take various forms. In some classes students will take part in 
 formal peer review processes. In such cases you should consider the following guidelines 
 to set your expectation for contributing feedback to others and receiving feedback 
@@ -15,16 +15,19 @@ guidelines can be very helpful as you work with classmates to improve each other
 It should go without saying that constructive and helpful comments are the expectation. 
 The following guidelines offer some assistance in prompting these kinds of comments.
 
-## Guidelines for Evaluations
-Here is a helpful [peer review checklist](../Peer_Review_Checklist.pdf){:target="_blank"}. Make sure to keep in mind the following as 
-you work with your classmates.
+### Guidelines for Evaluations
 
-### Strengths
+#### Checklist
+Here is a helpful 
+[peer review checklist](../Peer_Review_Checklist.pdf){:target="_blank"}. 
+As you use this to help you provide feedback, make sure to keep in mind the following.
+
+#### Emphasize Strengths
 Note the strengths of the paper. Every writer needs encouragement. And there will 
 be some things in the paper that are very good and should not be changed. Tell the author
 the value you find in what they have written and suggest ways to highlight those things.
 
-### Suggestions for Improvement
+#### Constructive Suggestions for Improvement
 * Mechanics — such as spelling, punctuation, grammar, sentence structure, 
 paragraph divisions, and overall organization.
 * Scholarly apparatus — completeness and accuracy of footnotes, sound use of quotation 
@@ -44,5 +47,5 @@ our understanding of the past and/or the primary source material or does it simp
 summarize and repackage the work of other scholars?
 
 **REMINDER:** Keep in mind that the goal of peer review is to help the author improve 
-the quality of their academic writing. Constructive criticism that is most helpful!
+the quality of their academic writing. Constructive criticism is the most helpful!
 
