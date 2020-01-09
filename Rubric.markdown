@@ -5,7 +5,6 @@ hidden: false
 permalink: /Rubric/
 ---
 
-## Grading Rubric for Historical Writing
 The following rubric is adapted from the one formerly used by the Princeton University 
 History department. It appears this document is no longer available online.
 
