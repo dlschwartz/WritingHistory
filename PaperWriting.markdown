@@ -121,7 +121,7 @@ create an appendix and number each image: figure 1, figure 2, etc. In the body
 of your text, you may then simply refer your reader to the figure you are discussing. 
 Of course, you will want to include the source of your images in your bibliography.
 
-#### Revise
+#### Revising
 * Revise your thesis and argument to make sure that your thesis is appropriate 
 to your argument and your argument proves your thesis.
 * Revise your prose to ensure that you employ proper grammar, clear sentences, 
