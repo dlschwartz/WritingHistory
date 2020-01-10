@@ -32,8 +32,8 @@ Additional text related to early Christianity that are not included in the 38 vo
 above.
 
 #### [Syri.ac](http://syri.ac/){:target="_blank"}
-This site offers an annotated bibliography of open-access resources for the 
-study of Syriac.
+This site offers an annotated bibliography of open-access resources for the study 
+of Syriac history and culture with links to many primary source texts.
 
 
 ## <a name="reference"/>Reference Works
