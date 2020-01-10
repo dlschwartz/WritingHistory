@@ -6,7 +6,7 @@ layout: home
 ---
 
 ![Woman with Wax Tablet and Stylus (so-called "Sappho")](/WritingHistory/images/sappho.jpg)
-###### *Woman with Wax Tablet and Stylus, from Pompeii. Image is in the public domain. From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Herkulaneischer_Meister_002.jpg){:target="_blank"}.
+###### *Woman with Wax Tablet and Stylus, Pompeii. In the public domain. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Herkulaneischer_Meister_002.jpg){:target="_blank"}.
 
 ## About this Site
 This website contains a set of resources for students engaged in writing ancient history 
