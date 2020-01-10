@@ -6,7 +6,7 @@ layout: home
 ---
 
 ![medieval writing desk](/WritingHistory/images/writing.jpg)
-###### *The image above is from [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&limit=20&offset=20&profile=default&search=writing&advancedSearch-current={}&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Medieval_writing_desk.jpg){:target="_blank"} and is in the public domain.
+###### *This image is in the public domain and is available at [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&limit=20&offset=20&profile=default&search=writing&advancedSearch-current={}&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Medieval_writing_desk.jpg){:target="_blank"}.
 
 ## About this Site
 This website contains a set of resources for students engaged in writing ancient history 
