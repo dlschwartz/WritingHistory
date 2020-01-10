@@ -7,9 +7,7 @@ permalink: /Research/
 This page contains a collection of research tools and resources that
 students may find helpful. A number of the links take you to open-access 
 resources on the web. Others require the ability to login with Texas A&M 
-credentials.
-
-### Contents
+credentials. See below for:
 * [Primary Source Collections](#primaries)
 * [Reference Works](#reference)
 * [Article Databases](#databases)
