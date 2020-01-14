@@ -40,6 +40,7 @@ that might develop during your reading. These reference works also offer the
 best place for you to begin searching for the secondary literature you will 
 want to consider for academic writing.
 
+
 #### [Cambridge Ancient History](http://proxy.library.tamu.edu/login?url=http://histories.cambridge.org/uid=9575/collection?id=set_cambridge_ancient_history){:target="_blank"}
 This multi-volume work contains essays on specific topics. Note that each volume also 
 has a bibliography arranged according to theme. I highly recommend using these 
@@ -70,6 +71,10 @@ in ancient history.
 #### [Comprehensive Bibliography on Syriac Christianity](http://www.csc.org.il/db/browse.aspx?db=SB&sT=keywords){:target="_blank"}
 A bibliographic database allowing uses to browse by keywords of topics, persons,
 places relevant to Syriac Studies.
+
+#### [Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition](https://gedsh.bethmardutho.org/){:target="_blank"}
+An excellent resource with over 600 encyclopedia articles on people, places, and topics relevant to 
+the fields of Syriac Studies, Late Antiquity, and the Medieval Middle East.
 
 ## <a name="databases"/>Article Databases
 The online databases linked here are essential research tools. However, they 
