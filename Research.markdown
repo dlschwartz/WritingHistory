@@ -86,6 +86,8 @@ topic you want to research. I recommend starting with the resources in the
 
 #### [ATLA Religion Database](http://proxy.library.tamu.edu/login?url=https://coral.library.tamu.edu/resourcelink.php?resource=680){:target="_blank"}
 
+#### [L'Année philologique](http://proxy.library.tamu.edu/login?url=http://coral.library.tamu.edu/resourcelink.php?resource=2296){:target="_blank"}
+
 #### [ERIC (EBSCO)](http://proxy.library.tamu.edu/login?url=https://coral.library.tamu.edu/resourcelink.php?resource=1960){:target="_blank"}
 
 #### [JSTOR](http://proxy.library.tamu.edu/login?url=https://coral.library.tamu.edu/resourcelink.php?resource=2288){:target="_blank"}
