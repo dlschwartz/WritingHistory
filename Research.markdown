@@ -84,9 +84,9 @@ are generally best consulted after you have a pretty clear sense of the
 topic you want to research. I recommend starting with the resources in the 
 [Reference Works](#reference) section before doing search in these databases.
 
-#### [ATLA Religion Database](http://proxy.library.tamu.edu/login?url=https://coral.library.tamu.edu/resourcelink.php?resource=680){:target="_blank"}
-
 #### [L'Année philologique](http://proxy.library.tamu.edu/login?url=http://coral.library.tamu.edu/resourcelink.php?resource=2296){:target="_blank"}
+
+#### [ATLA Religion Database](http://proxy.library.tamu.edu/login?url=https://coral.library.tamu.edu/resourcelink.php?resource=680){:target="_blank"}
 
 #### [ERIC (EBSCO)](http://proxy.library.tamu.edu/login?url=https://coral.library.tamu.edu/resourcelink.php?resource=1960){:target="_blank"}
 
