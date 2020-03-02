@@ -36,7 +36,7 @@ Note the difference between the formatting for a footnote that refers to the
 first citation of a source and the formatting of a footnote that refers to subsequent 
 citations of the same source.
 
-***IMPORTANT:*** None of the formats here offers an example of something you are 
+***<a name="workInCollection"/>IMPORTANT:*** None of the formats here offers an example of something you are 
 very likely to run into, the citation of a work contained within a book. You will 
 need this if you cite from an anthology or reader but you will also need this if 
 you cite from something like the Nicene and Post-Nicene Father, a collection of volumes 
