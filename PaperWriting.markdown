@@ -129,12 +129,13 @@ and smooth transitions between ideas, sections, and paragraphs.
 * Look for passive verbs (is, am, are, was, were, be, being, been, have, has, had) 
 and consider ways to reduce or even eliminate them. The occasional use of passive 
 does not present a problem but the frequent use tends to take the life out of your 
-writing. For more on passive voice, see: <http://writingcenter.unc.edu/handouts/passive-voice/>{:target="_blank"}.
+writing. For more on passive voice, see: <https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Drafting/Active-Passive-Voice/>{:target="_blank"}.
 * Revise your text, footnotes, and bibliography to ensure that you give proper 
 credit where credit is due.
 
-#### Writing Reminders
-* Use proper grammar and spelling. 
+#### Writing/Revising Reminders
+* Use proper [grammar](https://www.niu.edu/writingtutorial/grammar/index.shtml){:target="_blank"}, 
+[punctuation](https://www.niu.edu/writingtutorial/punctuation/index.shtml){:target="_blank"}, and spelling. 
 * You generally want to avoid using the first person (I, my, we, etc.)
 * Avoid contractions (don’t, shouldn’t, etc.)
 
