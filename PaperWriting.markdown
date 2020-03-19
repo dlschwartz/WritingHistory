@@ -123,8 +123,8 @@ for help citing a work in a collection.
 top of the page along with the word count of your paper (use the word count feature 
 in MS Word). 
 * Give your paper a title. A title is a great place to begin the process of 
-engaging your reader. Consider something clever (but not silly), or incorporate 
-a short quotation from your primary source reading, or offer something that foreshadows 
+engaging your reader. Consider something clever (but not silly). You might want to incorporate 
+a short quotation from your primary source reading or offer something that foreshadows 
 your argument.
 * Consider using section and sub-section headings. These signpost to your reader where 
 your argument is going and facilitates transitions between the separate ideas that 
