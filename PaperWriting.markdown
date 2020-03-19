@@ -41,7 +41,7 @@ The clarity is the critical part.
 
 ### <a name="final"/>My Expectations for an Undergraduate Term Paper: Final
 
-#### <a name="thesis"/>Thesis Statement
+#### <a name="thesis"/>Thesis Statements
 Your paper should contain a clear, focused, and arguable thesis statement that contains
 your value added contribution.
 * “Clear” means that your reader ought to be able to identify your thesis without 
@@ -105,17 +105,18 @@ argument.
 * “Footnotes” means that you should not use endnotes! 
 * Footnotes must be properly formatted according to the Chicago Manual of Style 
 or Kate Turabian’s A Manual for Writers of Term Papers, Theses, and Dissertations.
-* See the [Cite page](../cite) of this website for more detail.
+* See the [Citations page](../Citations) of this website for more detail.
 
 #### <a name="bibliography"/>Bibligraphy/Works Cited
 * Bibliography must be properly formatted according to the Chicago Manual of 
 Style or Kate Turabian’s A Manual for Writers of Term Papers, Theses, and 
-Dissertations.
+Dissertations. See the [Citations page](../Citations) of this website for more detail.
 * Take particular care with the difference between an ancient author and a 
 modern editor of an ancient text. The modern editor was not the author of your 
 ancient source. The author is the author and the editor is the editor. Know the 
-difference and cite your sources accordingly.
-See the [Cite page](../cite) of this website for more detail.
+difference and cite your sources accordingly. See [here](../Citations/#workInCollection) 
+for help citing a work in a collection.
+
 
 #### <a name="formatting"/>Formatting
 * Please do not include a title page. Simply put your name and this class at the 
