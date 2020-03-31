@@ -71,6 +71,10 @@ sources.
 locate an ongoing scholarly debate and weigh in on it by re-interpreting a primary 
 source text or bring to the debate a source that those engaged in that debate have 
 not dealt with sufficiently.
+* For a different discussion of what makes for a strong thesis statement and 
+some valuable help with the mechanics of writing a thesis statement, see this excellent 
+resource produced by the History Department at UCLA: 
+<https://history.ucla.edu/sites/default/files/u184/thesis_statements.pdf>{:target="_blank"}.
 
 #### <a name="primaries"/>Interaction with Primary Sources
 * A close reading of sources demonstrates careful interpretation and analysis 
