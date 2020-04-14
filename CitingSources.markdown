@@ -45,7 +45,7 @@ proper citation format will combine the "Editor or translator in addition to aut
 section and the "Chapter or other part of a book" section of Turabian. Here is an 
 example:
 
-1. John Chrysostom, Treatise to the Fallen Monk, in Nicene and Post-Nicene Fathers, First Series, trans. W. R. W. Stephens, (Peabody, MA: Hendrickson Publishers, 1995), 102.
+1. John Chrysostom, _Treatise to the Fallen Monk_, in _Nicene and Post-Nicene Fathers, First Series_, trans. W. R. W. Stephens, (Peabody, MA: Hendrickson Publishers, 1995), 102.
 
 John Chrysostom. _Treatise to the Fallen Monk_. In _Nicene and Post-Nicene Fathers, 
 First Series_, translated by W. R. W. Stephens, 87-111. Peabody, MA: Hendrickson 
