@@ -33,6 +33,16 @@ including a wide range of times and places.
 This site offers an annotated bibliography of open-access resources for the study 
 of Syriac history and culture with links to many primary source texts.
 
+#### [Wikipedia](https://en.wikipedia.org/){:target="_blank"}
+Wikipedia articles are generally not the best sources to cite in your academic writing. 
+Unfortunately, this has led many teachers and professors to tell students not to use Wikipedia.
+However, if you know how to use Wikipedia, it can be a tremendous resource. In particular,
+Wikipedia is a great place to find links to digitized primary source material. If you are 
+looking for an online version of an ancient text, try typing the author's name into Wikipedia.
+Then scroll down toward the bottom and look for sections like "Sources" and "External Links." 
+These will often point you to online versions of primary sources. This is one of several great 
+uses of Wikipedia.
+
 
 ## <a name="reference"/>Reference Works
 Use the reference works linked in this folder to look up the answers to questions 
