@@ -47,15 +47,15 @@ It contains many more examples than the Turabian materials cited above.
 #### <a name="ancientAuthor"/>Cite by Ancient Author
 The modern editor of an ancient source is not the author and should not be 
 listed where you would normally list the author of a work. You should list the 
-editor and/or translater after the title of the work. See this example in the 
-[Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/tools_citationguide/citation-guide-1.html#cg-tbook){:target="_blank"}
+editor and/or translator after the title of the work. See this example in the 
+[Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec104.html){:target="_blank"}.
 
 #### <a name="workInCollection"/>Citing Ancient Works in a Collection 
 The formats described in the links above do not offer a clear example of something you are 
-very likely to run into, the citation of a work contained within a book. You will 
+very likely to run into, the citation of an ancient work contained within a book. You will 
 need this if you cite from an anthology or reader but you will also need this if 
 you cite from something like the [Nicene and Post-Nicene Fathers](https://dlschwartz.github.io/WritingHistory/Research/#primaries), a collection of volumes 
-that contains several entire ancient works bound together into a single volume. The 
+that contains several entire ancient works bound together into single volumes. The 
 proper citation format will combine the "Editor or translator in addition to author" 
 section and the "Chapter or other part of a book" section of Turabian. Here is an 
 example:
@@ -68,13 +68,14 @@ Publishers, 1995.
 
 #### <a name="notChapters"/>Collected Volumes vs. Monographs
 A book of essays written by multiple authors and edited by one or more editors is 
-usually referred to as a "collected volume." You generally cite these by the author and 
+usually referred to as a 'collected volume.' You generally cite these by the author and 
 title of the essay while also indicating the title and editor for book. See this example in the 
-[Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/tools_citationguide/citation-guide-1.html#cg-chapter){:target="_blank"}
+[Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec107.html){:target="_blank"}.
 
-A book written by a single author is sometimes called a monograph. That means it is a 
+A book written by a single author is sometimes called a 'monograph.' That means it is a 
 book written by a single author (or occassionally by co-authors but the important thing
 is that it is not a collection of essays written by separate authors). When citing a 
-monography you cite the whole book. You should not cite individual chapters of monograph.
-Rather, your footnote will include a page number that your reader can use to see 
-which parts of the monograph you are citing.
+monograph, please cite the whole book and not the individual chapters contained in the book.
+Your footnote will include a page number that your reader can use to see 
+which parts of the monograph you are citing. If you need to discuss a chapter as a distinct
+part of the book, you can do that in the body of your paper.
