@@ -42,7 +42,7 @@ The link above will take you to the online edition of the _Chicago Manual of Sty
 It contains many more examples than the Turabian materials cited above.
 
 
-### <a name="commonErrors"/>Notes Regarding Common Student Errors
+### <a name="commonErrors"/>Notes Regarding Common Student Mistakes
 
 #### <a name="ancientAuthor"/>Cite by Ancient Author
 The modern editor of an ancient source is not the author and should not be 
