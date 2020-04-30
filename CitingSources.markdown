@@ -50,7 +50,7 @@ listed where you would normally list the author of a work. You should list the
 editor and/or translator after the title of the work. See this example in the 
 [Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec104.html){:target="_blank"}.
 
-#### <a name="workInCollection"/>Citing Ancient Works in a Collection 
+#### <a name="workInCollection"/>How to Cite Ancient Works in a Collection 
 The formats described in the links above do not offer a clear example of something you are 
 very likely to run into, the citation of an ancient work contained within a book. You will 
 need this if you cite from an anthology or reader but you will also need this if 
@@ -69,7 +69,7 @@ Publishers, 1995.
 #### <a name="notChapters"/>Collected Volumes vs. Monographs
 A book of essays written by multiple authors and edited by one or more editors is 
 usually referred to as a 'collected volume.' You generally cite these by the author and 
-title of the essay while also indicating the title and editor for book. See this example in the 
+title of the essay/chapter while also indicating the title and editor for book. See this example in the 
 [Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec107.html){:target="_blank"}.
 
 A book written by a single author is sometimes called a 'monograph.' That means it is a 
