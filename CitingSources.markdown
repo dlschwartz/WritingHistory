@@ -79,3 +79,10 @@ monograph, please cite the whole book and not the individual chapters contained 
 Your footnote will include a page number that your reader can use to see 
 which parts of the monograph you are citing. If you need to discuss a chapter as a distinct
 part of the book, you can do that in the body of your paper.
+
+#### <a name="allCaps"/>Remove All-Caps from Citations
+Many online bibliographies and library catalogs put titles or author names in 
+all-caps. Whether you cut and paste into your citations or re-type these references 
+you do not want to include the all-caps in your footnotes or bibliography. It creates 
+the impression that you are yelling at your reader which is probably not what you 
+intend.
