@@ -80,6 +80,15 @@ Your footnote will include a page number that your reader can use to see
 which parts of the monograph you are citing. If you need to discuss a chapter as a distinct
 part of the book, you can do that in the body of your paper.
 
+####<a name="shortForm"/>Short Form of Footnotes
+In order to reduce the space take up by the footnotes, you want to offer a 
+full citation the first time you cite a work and then use the short form for 
+each subsequent citation of that work. The short form includes only the author's 
+last name, an abbreviated title of the book or article (in italics or quotation marks 
+as appropriate) and a page number. For some examples of full and short form citations, see 
+[Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec030.html){:target="_blank"}.
+
+
 #### <a name="allCaps"/>Remove All-Caps from Citations
 Many online bibliographies and library catalogs put titles or author names in 
 all-caps. Whether you cut and paste into your citations or re-type these references 
