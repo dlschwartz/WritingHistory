@@ -80,7 +80,7 @@ Your footnote will include a page number that your reader can use to see
 which parts of the monograph you are citing. If you need to discuss a chapter as a distinct
 part of the book, you can do that in the body of your paper.
 
-####<a name="shortForm"/>Short Form of Footnotes
+#### <a name="shortForm"/>Short Form of Footnotes
 In order to reduce the space take up by the footnotes, you want to offer a 
 full citation the first time you cite a work and then use the short form for 
 each subsequent citation of that work. The short form includes only the author's 
