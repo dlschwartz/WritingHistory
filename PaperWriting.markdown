@@ -88,6 +88,9 @@ cannot prove, your point. Your interpretation must make explicit how the sources
 support your thesis. 
 * Anything worth quoting is worth interpreting explicitly. Anything not worth 
 interpreting explicitly is not worth quoting.
+* Use a primary source quotation in your writing when the specific language of the 
+source helps you make your argument. Otherwise, a summary or general reference 
+(with citation) should be sufficient.
 
 #### <a name="secondaries"/>Interaction with Secondary Sources
 * This requires careful negotiation of your relationship with secondary sources 
@@ -102,6 +105,11 @@ is not a research paper!)
 * Quoting a secondary source cannot prove your point. It might support your argument, 
 but it cannot in and of itself prove your point. Show how the source supports _your_ 
 argument.
+* Anything worth quoting is worth interpreting explicitly. Anything not worth 
+interpreting explicitly is not worth quoting.
+* Use a secondary source quotation in your writing when the specific language of the 
+source helps you make your argument. Otherwise, a summary or general reference 
+(with citation) should be sufficient.
 
 #### <a name="footnotes"/>Footnotes
 * “Footnotes” means that you should not use parenthetical citations! 
