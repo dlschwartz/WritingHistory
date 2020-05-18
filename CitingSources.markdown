@@ -44,7 +44,7 @@ It contains many more examples than the Turabian materials cited above.
 
 ### <a name="commonErrors"/>Notes Regarding Common Student Mistakes
 
-#### <a name="ancientAuthor"/>Cite by Ancient Author
+#### <a name="ancientAuthor"/>[Cite by Ancient Author](./#ancientAuthor)
 The modern editor of an ancient source is not the author and should not be 
 listed where you would normally list the author of a work. You should list the 
 editor and/or translator after the title of the work. See this example in the 
@@ -66,7 +66,7 @@ John Chrysostom. _Treatise to the Fallen Monk_. In _Nicene and Post-Nicene Fathe
 First Series_, translated by W. R. W. Stephens, 87-111. Peabody, MA: Hendrickson 
 Publishers, 1995.
 
-#### <a name="notChapters"/>Collected Volumes vs. Monographs
+#### <a name="essaysVsBooks"/>Collected Volumes vs. Monographs
 A book of essays written by multiple authors and edited by one or more editors is 
 usually referred to as a 'collected volume.' You generally cite these by the author and 
 title of the essay/chapter while also indicating the title and editor for book. See this example in the 
