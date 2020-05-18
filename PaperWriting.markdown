@@ -20,12 +20,12 @@ permalink: /Writing/
 
 
 
-### <a name="overview"/>General Overview
+### <a name="overview"/>[General Overview](./#overview)
 Patrick Rael has produced an excellent resource on historical writing for students, 
 [Reading, Writing, and Researching for History: A Guide for College Students](http://www.bowdoin.edu/writing-guides/){:target="_blank"}.
 I highly recommend that you spend some time reading this site.
 
-### <a name="draft"/>My Expectations for an Undergraduate Term Paper: Draft
+### <a name="draft"/>[My Expectations for an Undergraduate Term Paper: Draft](./#draft)
 A draft is by definition a work in progress. You should always begin writing long before 
 you have everything figured out. We learn by writing so writing must be a iterative 
 process that begins with ideas which then get refined through the process of writing. 
@@ -39,9 +39,9 @@ The clarity is the critical part.
 * Bibliography
 
 
-### <a name="final"/>My Expectations for an Undergraduate Term Paper: Final
+### <a name="final"/>[My Expectations for an Undergraduate Term Paper: Final](./#final)
 
-#### <a name="thesis"/>Thesis Statements
+#### <a name="thesis"/>[Thesis Statements](./#thesis)
 Your paper should contain a clear, focused, and arguable thesis statement that contains
 your value added contribution.
 * “Clear” means that your reader ought to be able to identify your thesis without 
@@ -75,7 +75,7 @@ not dealt with sufficiently.
 some valuable help with the mechanics of writing a thesis statement, see this excellent 
 resource produced by the History Department at UCLA: <https://history.ucla.edu/sites/default/files/u184/thesis_statements.pdf>{:target="_blank"}.
 
-#### <a name="primaries"/>Interaction with Primary Sources
+#### <a name="primaries"/>[Interaction with Primary Sources](./#primaries)
 * A close reading of sources demonstrates careful interpretation and analysis 
 of sources. You cannot prove a thesis without closely reading primary sources. 
 * Make sure you understand the context of a primary source before using it in 
@@ -92,7 +92,7 @@ interpreting explicitly is not worth quoting.
 source helps you make your argument. Otherwise, a summary or general reference 
 (with citation) should be sufficient.
 
-#### <a name="secondaries"/>Interaction with Secondary Sources
+#### <a name="secondaries"/>[Interaction with Secondary Sources](./#secondaries)
 * This requires careful negotiation of your relationship with secondary sources 
 relevant to proving your thesis. Sometimes this simply means that secondary 
 sources offer a source of information that you do not have the time or skills 
@@ -111,14 +111,14 @@ interpreting explicitly is not worth quoting.
 source helps you make your argument. Otherwise, a summary or general reference 
 (with citation) should be sufficient.
 
-#### <a name="footnotes"/>Footnotes
+#### <a name="footnotes"/>[Footnotes](./#footnotes)
 * “Footnotes” means that you should not use parenthetical citations! 
 * “Footnotes” means that you should not use endnotes! 
 * Footnotes must be properly formatted according to the Chicago Manual of Style 
 or Kate Turabian’s A Manual for Writers of Term Papers, Theses, and Dissertations.
 * See the [Citations page](../Citations) of this website for more detail.
 
-#### <a name="bibliography"/>Bibligraphy/Works Cited
+#### <a name="bibliography"/>[Bibligraphy/Works Cited](./#bibliography)
 * Bibliography must be properly formatted according to the Chicago Manual of 
 Style or Kate Turabian’s A Manual for Writers of Term Papers, Theses, and 
 Dissertations. See the [Citations page](../Citations) of this website for more detail.
@@ -129,7 +129,7 @@ difference and cite your sources accordingly. See [here](../Citations/#workInCol
 for help citing a work in a collection.
 
 
-#### <a name="formatting"/>Formatting
+#### <a name="formatting"/>[Formatting](./#formatting)
 * Please do not include a title page. Simply put your name and this class at the 
 top of the page along with the word count of your paper (use the word count feature 
 in MS Word). 
@@ -148,7 +148,7 @@ create an appendix and number each image: figure 1, figure 2, etc. In the body
 of your text, you may then simply refer your reader to the figure you are discussing. 
 Of course, you will want to include the source of your images in your bibliography.
 
-#### <a name="revising"/>Revising
+#### <a name="revising"/>[Revising](./#revising)
 * Revise your thesis and argument to make sure that your thesis is appropriate 
 to your argument and your argument proves your thesis.
 * Revise your prose to ensure that you employ proper grammar, clear sentences, 
@@ -160,7 +160,7 @@ writing. For more on passive voice, see: <https://writingcenter.tamu.edu/Student
 * Revise your text, footnotes, and bibliography to ensure that you give proper 
 credit where credit is due.
 
-#### <a name="reminders"/>Writing/Revising Reminders
+#### <a name="reminders"/>[Writing/Revising Reminders](./#reminders)
 * Use proper [grammar](https://www.niu.edu/writingtutorial/grammar/index.shtml){:target="_blank"}, 
 [punctuation](https://www.niu.edu/writingtutorial/punctuation/index.shtml){:target="_blank"}, and spelling. 
 * You generally want to avoid using the first person (I, my, we, etc.)
