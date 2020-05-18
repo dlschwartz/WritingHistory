@@ -50,7 +50,7 @@ listed where you would normally list the author of a work. You should list the
 editor and/or translator after the title of the work. See this example in the 
 [Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec104.html){:target="_blank"}.
 
-#### <a name="workInCollection"/>How to Cite Ancient Works in a Collection 
+#### <a name="workInCollection"/>[How to Cite Ancient Works in a Collection](./#workInCollection) 
 The formats described in the links above do not offer a clear example of something you are 
 very likely to run into, the citation of an ancient work contained within a book. You will 
 need this if you cite from an anthology or reader but you will also need this if 
@@ -66,7 +66,7 @@ John Chrysostom. _Treatise to the Fallen Monk_. In _Nicene and Post-Nicene Fathe
 First Series_, translated by W. R. W. Stephens, 87-111. Peabody, MA: Hendrickson 
 Publishers, 1995.
 
-#### <a name="essaysVsBooks"/>Collected Volumes vs. Monographs
+#### <a name="essaysVsBooks"/>[Collected Volumes vs. Monographs](./#essaysVsBooks)
 A book of essays written by multiple authors and edited by one or more editors is 
 usually referred to as a 'collected volume.' You generally cite these by the author and 
 title of the essay/chapter while also indicating the title and editor for book. See this example in the 
@@ -80,7 +80,7 @@ Your footnote will include a page number that your reader can use to see
 which parts of the monograph you are citing. If you need to discuss a chapter as a distinct
 part of the book, you can do that in the body of your paper.
 
-#### <a name="shortForm"/>Short Form of Footnotes
+#### <a name="shortForm"/>[Short Form of Footnotes](./#shortForm) 
 In order to reduce the space take up by the footnotes, you want to offer a 
 full citation the first time you cite a work and then use the short form for 
 each subsequent citation of that work. The short form includes only the author's 
@@ -89,7 +89,7 @@ as appropriate) and a page number. For some examples of full and short form cita
 [Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec030.html){:target="_blank"}.
 
 
-#### <a name="allCaps"/>Remove All-Caps from Citations
+#### <a name="allCaps"/>[Remove All-Caps from Citations](./#allCaps)
 Many online bibliographies and library catalogs put titles or author names in 
 all-caps. Whether you cut and paste into your citations or re-type these references 
 you do not want to include the all-caps in your footnotes or bibliography. It creates 

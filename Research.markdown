@@ -12,7 +12,7 @@ credentials. See below for:
 * [Reference Works](#reference)
 * [Article Databases](#databases)
 
-## <a name="primaries"/>Primary Source Collections
+## <a name="primaries"/>[Primary Source Collections](./#primaries)
 
 #### [Early Church Fathers](http://www.tertullian.org/fathers2/){:target="_blank"}
 A digitized version of the 38 volumes of the _Ante-Nicene Fathers_ and the 
@@ -44,7 +44,7 @@ These will often point you to online versions of primary sources. This is one of
 uses of Wikipedia.
 
 
-## <a name="reference"/>Reference Works
+## <a name="reference"/>[Reference Works](./#reference)
 Use the reference works linked in this folder to look up the answers to questions 
 that might develop during your reading. These reference works also offer the 
 best place for you to begin searching for the secondary literature you will 
@@ -88,7 +88,7 @@ in ancient history.
 
 
 
-## <a name="databases"/>Article Databases
+## <a name="databases"/>[Article Databases](./#databases)
 The online databases linked here are essential research tools. However, they 
 are generally best consulted after you have a pretty clear sense of the 
 topic you want to research. I recommend starting with the resources in the 
