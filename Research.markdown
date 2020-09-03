@@ -54,7 +54,7 @@ want to consider for academic writing.
 #### [Brill's New Pauly](http://proxy.library.tamu.edu/login?url=http://coral.library.tamu.edu/resourcelink.php?resource=1132){:target="_blank"}
 Brill's New Pauly is an encyclopedia of classical antiquity. 
 
-#### [Cambridge Ancient History](http://proxy.library.tamu.edu/login?url=http://histories.cambridge.org/uid=9575/collection?id=set_cambridge_ancient_history){:target="_blank"}
+#### [Cambridge Ancient History](https://www-cambridge-org.srv-proxy1.library.tamu.edu/core/series/cambridge-ancient-history/010C506409EE858277F898C129759025){:target="_blank"}
 This multi-volume work contains essays on specific topics. Note that each volume also 
 has a bibliography arranged according to theme. I highly recommend using these 
 bibliographies as you pursue topics and research your papers.
