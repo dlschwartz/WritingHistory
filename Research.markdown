@@ -82,7 +82,7 @@ This is an unconventional but helpful book. The first half contains a collection
 of essays that might be helpful for understanding the context of your research topic. 
 The second half is more like an encyclopedia with short articles and bibliography.
 
-#### [Oxford Bibliographies Online](http://proxy.library.tamu.edu/login?url=http://coral.library.tamu.edu/resourcelink.php?resource=2629){:target="_blank"} ([Oxford Bibliographies Online](https://www.youtube.com/watch?v=1myXLJZGPwM){:target="_blank"})
+#### [Oxford Bibliographies Online](http://proxy.library.tamu.edu/login?url=http://coral.library.tamu.edu/resourcelink.php?resource=2629){:target="_blank"} ([Oxford Bibliographies Online tutorial](https://www.youtube.com/watch?v=1myXLJZGPwM){:target="_blank"})
 Several of these online bibliographies contain material relevant to doing research 
 in ancient history.
 
@@ -103,6 +103,6 @@ topic you want to research. I recommend starting with the resources in the
 #### [JSTOR](http://proxy.library.tamu.edu/login?url=https://coral.library.tamu.edu/resourcelink.php?resource=2288){:target="_blank"} ([JSTOR tutorial](http://guides.jstor.org/how-to-use-jstor/searching){:target="_blank"})
 
 
-#### [Web of Science] (http://apps.webofknowledge.com.srv-proxy2.library.tamu.edu/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=5ByxneHYNVgkKMsj72D&preferencesSaved=){:target="_blank} ([Web of Science tutorial](http://wokinfo.com/training_support/training/web-of-science/#recorded_training){:target="_blank"})
+#### [Web of Science (http://apps.webofknowledge.com.srv-proxy2.library.tamu.edu/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=5ByxneHYNVgkKMsj72D&preferencesSaved=){:target="_blank}] ([Web of Science tutorial](http://wokinfo.com/training_support/training/web-of-science/#recorded_training){:target="_blank"})
 
 
