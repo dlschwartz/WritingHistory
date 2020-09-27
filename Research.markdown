@@ -103,6 +103,6 @@ topic you want to research. I recommend starting with the resources in the
 #### [JSTOR](http://proxy.library.tamu.edu/login?url=https://coral.library.tamu.edu/resourcelink.php?resource=2288){:target="_blank"} ([JSTOR tutorial](http://guides.jstor.org/how-to-use-jstor/searching){:target="_blank"})
 
 
-#### [Web of Science (http://apps.webofknowledge.com.srv-proxy2.library.tamu.edu/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=5ByxneHYNVgkKMsj72D&preferencesSaved=){:target="_blank}] ([Web of Science tutorial](http://wokinfo.com/training_support/training/web-of-science/#recorded_training){:target="_blank"})
+#### [Web of Science](http://apps.webofknowledge.com.srv-proxy2.library.tamu.edu/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=5ByxneHYNVgkKMsj72D&preferencesSaved=){:target="_blank} ([Web of Science tutorial](http://wokinfo.com/training_support/training/web-of-science/#recorded_training){:target="_blank"})
 
 
