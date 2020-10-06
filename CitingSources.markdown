@@ -54,23 +54,6 @@ numbers. Here are links to tutorials on how to use this feature in
 [MS Word](https://www.youtube.com/watch?v=r9_dw_CxG6w){:target="_blank"} and in 
 [Google Docs](https://www.youtube.com/watch?v=V6CzEd7dr5s){:target="_blank"}. 
 
-#### <a name="ancientAuthor"/>[Cite by Ancient Author](./#ancientAuthor)
-The modern editor of an ancient source is not the author and should not be 
-listed where you would normally list the author of a work. You should list the 
-editor and/or translator after the title of the work. See this example in the 
-[Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec104.html){:target="_blank"}.
-
-#### <a name="workInCollection"/>[How to Cite Ancient Works in a Collection](./#workInCollection) 
-The formats described in the links above do not offer a clear example of something you are 
-very likely to run into, the citation of an ancient work contained within a book. You will 
-need this if you cite from an anthology or reader but you will also need this if 
-you cite from something like the [Nicene and Post-Nicene Fathers](https://dlschwartz.github.io/WritingHistory/Research/#primaries), a collection of volumes 
-that contains several entire ancient works bound together into single volumes. The 
-proper citation format will combine the "Editor or translator in addition to author" 
-section and the "Chapter or other part of a book" section of Turabian. Here is an 
-example:
-
-![Citing a work contained within a work](/WritingHistory/images/workInWork.jpg)
 
 #### <a name="essaysVsBooks"/>[Collected Volumes vs. Monographs](./#essaysVsBooks)
 A book of essays written by multiple authors and edited by one or more editors is 
@@ -101,3 +84,21 @@ all-caps. Whether you cut and paste into your citations or re-type these referen
 you do not want to include the all-caps in your footnotes or bibliography. It creates 
 the impression that you are yelling at your reader which is probably not what you 
 intend.
+
+#### <a name="ancientAuthor"/>[Cite by Ancient Author](./#ancientAuthor)
+The modern editor of an ancient source is not the author and should not be 
+listed where you would normally list the author of a work. You should list the 
+editor and/or translator after the title of the work. See this example in the 
+[Chicago Manual of Style](https://www-chicagomanualofstyle-org.srv-proxy1.library.tamu.edu/book/ed17/part3/ch14/psec104.html){:target="_blank"}.
+
+#### <a name="workInCollection"/>[How to Cite Ancient Works in a Collection](./#workInCollection) 
+The formats described in the links above do not offer a clear example of something you are 
+very likely to run into, the citation of an ancient work contained within a book. You will 
+need this if you cite from an anthology or reader but you will also need this if 
+you cite from something like the [Nicene and Post-Nicene Fathers](https://dlschwartz.github.io/WritingHistory/Research/#primaries), a collection of volumes 
+that contains several entire ancient works bound together into single volumes. The 
+proper citation format will combine the "Editor or translator in addition to author" 
+section and the "Chapter or other part of a book" section of Turabian. Here is an 
+example:
+
+![Citing a work contained within a work](/WritingHistory/images/workInWork.jpg)
