@@ -119,6 +119,7 @@ source helps you make your argument. Otherwise, a summary or general reference
 * “Footnotes” means that you should not use endnotes! 
 * Footnotes must be properly formatted according to the Chicago Manual of Style 
 or Kate Turabian’s A Manual for Writers of Term Papers, Theses, and Dissertations.
+* Make sure you use the [footnote feature](../Citations/#insertingFootnotes) in your word processing program when insert footnotes.
 * See the [Citations page](../Citations) of this website for more detail.
 
 #### <a name="bibliography"/>[Bibligraphy/Works Cited](./#bibliography)
