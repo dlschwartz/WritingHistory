@@ -44,6 +44,16 @@ It contains many more examples than the Turabian materials cited above.
 
 ### <a name="commonErrors"/>Notes Regarding Common Student Mistakes
 
+#### <a name="insertingFootnotes"/>[Inserting Footnotes](./#insertingFootnotes)
+You can create something that looks like a footnote by adding a superscripted number at the end of a sentence
+and then adding a corresponding number down in the footer. This is NOT a good way to insert a footnote into 
+your paper. Word processing programs have a feature that inserts sequentially numbered footnotes
+for you and manages their location on the proper page. This means that your footnote stays with the proper text. 
+This allows you to cut, paste, and otherwise edit your work without having to manually change footnote 
+numbers. Here are links to tutorials on how to use this feature in 
+[MS Word](https://www.youtube.com/watch?v=r9_dw_CxG6w){:target="_blank"} and in 
+[Google Docs](https://www.youtube.com/watch?v=V6CzEd7dr5s){:target="_blank"}. 
+
 #### <a name="ancientAuthor"/>[Cite by Ancient Author](./#ancientAuthor)
 The modern editor of an ancient source is not the author and should not be 
 listed where you would normally list the author of a work. You should list the 
