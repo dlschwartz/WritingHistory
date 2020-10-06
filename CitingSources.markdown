@@ -70,7 +70,7 @@ proper citation format will combine the "Editor or translator in addition to aut
 section and the "Chapter or other part of a book" section of Turabian. Here is an 
 example:
 
-![Citing a work contained within a work](/WritingHistory/images/workInWork.jpg){:height="586px" width="724px"}
+![Citing a work contained within a work](/WritingHistory/images/workInWork.jpg)
 
 #### <a name="essaysVsBooks"/>[Collected Volumes vs. Monographs](./#essaysVsBooks)
 A book of essays written by multiple authors and edited by one or more editors is 
