@@ -11,6 +11,7 @@ credentials. See below for:
 * [Primary Source Collections](#primaries)
 * [Reference Works](#reference)
 * [Article Databases](#databases)
+* [Web Searches](#web)
 
 ## <a name="primaries"/>[Primary Source Collections](./#primaries)
 
@@ -105,4 +106,21 @@ topic you want to research. I recommend starting with the resources in the
 
 #### [Web of Science](http://apps.webofknowledge.com.srv-proxy2.library.tamu.edu/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=5ByxneHYNVgkKMsj72D&preferencesSaved=){:target="_blank} ([Web of Science tutorial](http://wokinfo.com/training_support/training/web-of-science/#recorded_training){:target="_blank"})
 
+
+## <a name="web"/>[Web Searches](./#web)
+I recommend you use the sources of information listed above before you start doing searches on the web.
+In general, a straight Google search offers a clumsy way to do academic research. You may get some 
+useful hits, but it takes a lot of effort to sift through the returns and find sound academic sources. 
+A better option is to use a [Google Scholar search](https://scholar.google.com/){:target="_blank"}. This generally, 
+but not always, returns hits for sound academic sources.
+
+One valuable use of Google Scholar is to find academic sources that have cited an article or book you 
+are using for your research. The footnotes and/or bibliography in that source only contain references 
+to things published before it was published. Google Scholar can connect you to more recent sources 
+that have cited a source. Let's say you are interested in pastoral care in Late Antiquity and know 
+about Pauline Allen and Wendy Mayer's 2000 article. Finding that article in Google Scholar connects you
+to 21 works published since 2000 that cite that article. This is a helpful way to locate additional secondary 
+material and keep your sources current.
+
+!["Cited by" results in Google Scholar](/WritingHistory/images/googleScholar.jpg)
 
