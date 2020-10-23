@@ -122,5 +122,7 @@ about Pauline Allen and Wendy Mayer's 2000 article. Finding that article in Goog
 to 21 works published since 2000 that cite that article. This is a helpful way to locate additional secondary 
 material and keep your sources current.
 
+You can also expand your search by selecting the "related articles" link.
+
 !["Cited by" results in Google Scholar](/WritingHistory/images/googleScholar.jpg)
 
