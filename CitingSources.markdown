@@ -85,6 +85,16 @@ you do not want to include the all-caps in your footnotes or bibliography. It cr
 the impression that you are yelling at your reader which is probably not what you 
 intend.
 
+#### <a name="bible"/>[Citing the Bible](./#bible)
+For a text as well known as the Bible you really do not need a full footnote citation. All you need is 
+[an abbreviated title](https://www.logos.com/bible-book-abbreviations) and chapter number. If you cite 
+a specific verse or verse range you should include that as well. Following that, you want to include the
+version in parentheses. You would use the following to cite Matthew chapter 5 verses 1-11: Matt. 5.1-11 
+(Revised Standard Version). The latest version of the RSV is typically cited in academic works in English 
+but any translation you want to use is just fine: ESV, NIV, NASB, etc. The one caveat to this last point 
+would be that you want to avoid paraphrases like the New Living Bible or the Message. Also, there is no 
+need to include this in the bibliography. 
+
 #### <a name="ancientAuthor"/>[Cite by Ancient Author](./#ancientAuthor)
 The modern editor of an ancient source is not the author and should not be 
 listed where you would normally list the author of a work. You should list the 
