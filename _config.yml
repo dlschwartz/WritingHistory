@@ -26,6 +26,7 @@ baseurl: "/WritingHistory" # the subpath of your site, e.g. /blog
 url: "localhost4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Bergdenker
 github_username:  dlschwartz
+license: This work is licensed under a (Creative Commons Attribution 3.0 Unported License)[http://creativecommons.org/licenses/by/3.0/deed.en_US].
 
 # Build settings
 markdown: kramdown
