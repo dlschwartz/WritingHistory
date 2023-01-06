@@ -69,14 +69,14 @@ if that thesis comes from your own careful reading and interpretation of primary
 sources.
 * One convenient way to find an arguable thesis with a clear value added is to 
 locate an ongoing scholarly debate and weigh in on it by re-interpreting a primary 
-source text or bring to the debate a source that those engaged in that debate have 
+source text or bringing to the debate a source that those engaged in that debate have 
 not dealt with sufficiently.
 
 For a different discussion of what makes for a strong thesis statement and 
 some valuable help with the mechanics of writing a thesis statement, see this excellent 
 resource produced by the History Department at UCLA: <https://history.ucla.edu/sites/default/files/u184/thesis_statements.pdf>{:target="_blank"}.
 
-The Texas A&M University also has a very helpful [interactive tutorial on thesis writing](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Brainstorming-Planning/Thesis-Statements/Thesis-Statements-(Interactive)){:target="_blank"}.
+The Texas A&M University Library also has a very helpful [interactive tutorial on thesis writing](https://writingcenter.tamu.edu/Students/Writing-Speaking-Guides/Alphabetical-List-of-Guides/Brainstorming-Planning/Thesis-Statements/Thesis-Statements-(Interactive)){:target="_blank"}.
 
 #### <a name="primaries"/>[Interaction with Primary Sources](./#primaries)
 * A close reading of sources demonstrates careful interpretation and analysis 
@@ -87,7 +87,7 @@ quotations from secondary sources. If something is worth quoting, it is worth
 reading in its broader context.
 * Always analyze the primary sources you use in your paper, especially when 
 you quote them. The presence of a primary source quotation does not, and indeed 
-cannot prove, your point. Your interpretation must make explicit how the sources 
+cannot, prove your point. Your interpretation must make explicit how the sources 
 support your thesis. 
 * Anything worth quoting is worth interpreting explicitly. Anything not worth 
 interpreting explicitly is not worth quoting.
